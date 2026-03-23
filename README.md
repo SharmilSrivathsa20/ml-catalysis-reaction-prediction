@@ -1,32 +1,18 @@
-\# Machine Learning-Guided Reaction Prediction
-
-
+# Machine Learning-Guided Reaction Prediction
 
 This repository contains the implementation of machine learning models used to predict outcomes of metal-catalyzed asymmetric reactions, as part of a research study submitted to ACS Catalysis.
 
-
-
 ---
 
-
-
-\## 🔬 Problem Statement
-
-
+# 🔬 Problem Statement
 
 Experimental discovery of optimal reaction conditions in asymmetric catalysis is time-consuming and requires extensive trial-and-error.
 
 This project applies machine learning to predict reaction outcomes and guide experimental design.
 
-
-
 ---
 
-
-
-\## ⚙️ Approach
-
-
+# ⚙️ Approach
 
 \* Data preprocessing and feature engineering
 
@@ -38,15 +24,9 @@ This project applies machine learning to predict reaction outcomes and guide exp
 
 \* Model evaluation using RMSE
 
-
-
 ---
 
-
-
-\## 🤖 Models Used
-
-
+# 🤖 Models Used
 
 \* CatBoost
 
@@ -54,15 +34,9 @@ This project applies machine learning to predict reaction outcomes and guide exp
 
 \* XGBoost
 
-
-
 ---
 
-
-
-\## 📊 Results
-
-
+# 📊 Results
 
 \* RMSE achieved: \*\*~4.2 – 6.5\*\*
 
@@ -72,15 +46,9 @@ This project applies machine learning to predict reaction outcomes and guide exp
 
 \* Identified high-confidence candidates for experimental validation
 
-
-
 ---
 
-
-
-\## 🚀 Impact
-
-
+# 🚀 Impact
 
 \* Reduced dependence on manual experimentation
 
@@ -88,15 +56,9 @@ This project applies machine learning to predict reaction outcomes and guide exp
 
 \* Enabled data-driven discovery in catalysis
 
-
-
 ---
 
-
-
-\## 📂 Project Structure
-
-
+# 📂 Project Structure
 
 ```
 
@@ -109,30 +71,17 @@ src/          → core scripts (training, evaluation, SHAP)
 results/      → outputs and metrics
 
 ```
-
-
-
 ---
 
-
-
-\## ⚠️ Note
-
-
+# ⚠️ Note
 
 This work is part of a research manuscript currently under review at ACS Catalysis.
 
 The repository contains representative code and analysis for demonstration purposes.
 
-
-
 ---
 
-
-
-\## 👨‍💻 Author
-
-
+# 👨‍💻 Author
 
 Vejendla Sharmil Srivathsa
 
