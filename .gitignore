@@ -1,0 +1,8 @@
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+!ML_Flowchart.png
+__pycache__/
+.env
