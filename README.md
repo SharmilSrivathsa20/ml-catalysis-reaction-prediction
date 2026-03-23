@@ -81,5 +81,11 @@ The repository contains representative code and analysis for demonstration purpo
 
 ## 👨‍💻 Author
 
-Vejendla Sharmil Srivathsa  
-Co-author | Machine Learning & Data Analysis
+Sheetal Ranaut,† Vejendla Sharmil Srivathsa,‡ Kunal Ranjan,‡ Manish Kumar,‡‡ Sanjeev BS,*,‡
+and Shivnath Mazumder*,†
+
+†Department of Chemistry, Indian Institute of Technology Jammu, Jammu 181221, India 
+‡‡Department of Information Technology, Indian Institute of Information Technology 
+Allahabad, Allahabad 211015, India
+‡Department of Applied Sciences, Indian Institute of Information Technology Allahabad, 
+Allahabad 211015, India 
