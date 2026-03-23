@@ -36,10 +36,29 @@ This project applies machine learning to predict reaction outcomes and guide exp
 
 ---
 
+## 🛠️ Implementation Details
+
+- Preprocessed chemical descriptors and structured dataset for model training  
+- Implemented training pipelines for gradient boosting models  
+- Applied cross-validation and hyperparameter tuning for model optimization  
+- Used SHAP for interpretability and feature importance analysis  
+
+---
+
+## 🧰 Tech Stack
+
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- XGBoost, LightGBM, CatBoost  
+- SHAP  
+
+---
+
 ## 📊 Results
 
 - RMSE achieved: **~4.2 – 6.5**  
-- Reduced feature space to key molecular descriptors  
+- Reduced feature space to **34 key molecular descriptors**  
 - Generated **1500+ novel reaction predictions**  
 - Identified high-confidence candidates for experimental validation  
 
@@ -63,6 +82,23 @@ The final models achieved RMSE in the range of ~4.2–6.5 and enabled the discov
 
 ---
 
+## 🧠 Key Learnings
+
+- Practical application of gradient boosting models in scientific research  
+- Importance of feature selection in improving model interpretability  
+- Handling high-dimensional chemical datasets  
+- Bridging domain knowledge (chemistry) with machine learning  
+
+---
+
+## 🔮 Future Work
+
+- Deploy models as APIs for real-time reaction prediction  
+- Build user interfaces for experimental chemists  
+- Extend approach to other catalytic systems and datasets  
+
+---
+
 ## 🔗 Code Access
 
 Due to research collaboration constraints, the full implementation and datasets are hosted on an institutional server.
@@ -79,13 +115,15 @@ The repository contains representative code and analysis for demonstration purpo
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Sheetal Ranaut,† Vejendla Sharmil Srivathsa,‡ Kunal Ranjan,‡ Manish Kumar,‡‡ Sanjeev BS,*,‡
-and Shivnath Mazumder*,†
+Sheetal Ranaut,†  
+Vejendla Sharmil Srivathsa,‡  
+Kunal Ranjan,‡  
+Manish Kumar,‡‡  
+Sanjeev BS,*,‡  
+Shivnath Mazumder*,†  
 
-†Department of Chemistry, Indian Institute of Technology Jammu, Jammu 181221, India 
-‡‡Department of Information Technology, Indian Institute of Information Technology 
-Allahabad, Allahabad 211015, India
-‡Department of Applied Sciences, Indian Institute of Information Technology Allahabad, 
-Allahabad 211015, India 
+† Department of Chemistry, IIT Jammu  
+‡ Department of Applied Sciences, IIIT Allahabad  
+‡‡ Department of IT, IIIT Allahabad  
